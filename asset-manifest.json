@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bussines/static/css/main.197519ae.css",
+    "main.js": "/Bussines/static/js/main.a4c2ecb5.js",
+    "static/js/787.a827703b.chunk.js": "/Bussines/static/js/787.a827703b.chunk.js",
+    "index.html": "/Bussines/index.html",
+    "main.197519ae.css.map": "/Bussines/static/css/main.197519ae.css.map",
+    "main.a4c2ecb5.js.map": "/Bussines/static/js/main.a4c2ecb5.js.map",
+    "787.a827703b.chunk.js.map": "/Bussines/static/js/787.a827703b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.197519ae.css",
+    "static/js/main.a4c2ecb5.js"
+  ]
+}
